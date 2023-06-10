@@ -1,0 +1,17 @@
+#count{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+#inc{
+    align-self: center;
+    font-size: 30px;
+}
+#res{
+    align-self: center;
+    font-size: 30px;
+}
+#dec{
+    align-self: center;
+    font-size: 30px;
+}
